@@ -1,0 +1,3 @@
+﻿  소스.c
+C:\Users\sh\Desktop\자료구조\1927번 다시 4\1927번 다시 4\소스.c(9,6): warning C4101:  'temp2' :참조되지 않은 지역 변수입니다.
+  1927번 다시 4.vcxproj -> C:\Users\sh\Desktop\자료구조\1927번 다시 4\Debug\1927번 다시 4.exe

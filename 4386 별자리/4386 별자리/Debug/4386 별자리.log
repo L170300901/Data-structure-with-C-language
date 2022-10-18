@@ -1,0 +1,9 @@
+﻿  소스.c
+C:\Users\sh\Desktop\자료구조\4386 별자리\4386 별자리\소스.c(55,37): warning C4244:  '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sh\Desktop\자료구조\4386 별자리\4386 별자리\소스.c(55,62): warning C4244:  '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sh\Desktop\자료구조\4386 별자리\4386 별자리\소스.c(56,27): warning C4244:  '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sh\Desktop\자료구조\4386 별자리\4386 별자리\소스.c(56,54): warning C4244:  '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sh\Desktop\자료구조\4386 별자리\4386 별자리\소스.c(91,36): warning C4090:  '함수': 'const' 한정자가 서로 다릅니다.
+C:\Users\sh\Desktop\자료구조\4386 별자리\4386 별자리\소스.c(91,36): warning C4028:  정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\sh\Desktop\자료구조\4386 별자리\4386 별자리\소스.c(91,36): warning C4028:  정식 매개 변수 2이(가) 선언과 다릅니다.
+  4386 별자리.vcxproj -> C:\Users\sh\Desktop\자료구조\4386 별자리\Debug\4386 별자리.exe

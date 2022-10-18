@@ -1,0 +1,3 @@
+﻿  소스.c
+C:\Users\sh\Desktop\자료구조\11286번 절대값 힙\11286번 절대값 힙\소스.c(9,6): warning C4101:  'k' :참조되지 않은 지역 변수입니다.
+  11286번 절대값 힙.vcxproj -> C:\Users\sh\Desktop\자료구조\11286번 절대값 힙\Debug\11286번 절대값 힙.exe

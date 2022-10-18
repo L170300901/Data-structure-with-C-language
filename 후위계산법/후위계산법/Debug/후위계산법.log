@@ -1,0 +1,3 @@
+﻿  소스.c
+C:\Users\sh\Desktop\자료구조\후위계산법\후위계산법\소스.c(11,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  후위계산법.vcxproj -> C:\Users\sh\Desktop\자료구조\후위계산법\Debug\후위계산법.exe

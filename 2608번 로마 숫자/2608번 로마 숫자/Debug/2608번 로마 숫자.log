@@ -1,0 +1,35 @@
+﻿  소스.c
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(16,20): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(20,21): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [2]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(24,22): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(28,23): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [4]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(32,22): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(36,21): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [2]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(40,22): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(44,23): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [4]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(48,24): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [5]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(52,22): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(56,21): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [2]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(60,22): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(64,23): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [4]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(68,22): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(72,21): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [2]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(76,22): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(80,23): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [4]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(84,24): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [5]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(88,22): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(92,21): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [2]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(96,22): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(100,23): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [4]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(104,22): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(108,21): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [2]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(112,22): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(116,23): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [4]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(120,24): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [5]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(124,22): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(128,21): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [2]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(132,22): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [3]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(136,23): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [4]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(140,24): warning C4047:  '=': 'char'의 간접 참조 수준이 'char [5]'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\2608번 로마 숫자\소스.c(148,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  2608번 로마 숫자.vcxproj -> C:\Users\sh\Desktop\자료구조\2608번 로마 숫자\Debug\2608번 로마 숫자.exe

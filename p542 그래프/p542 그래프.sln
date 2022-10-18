@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "p542 그래프", "p542 그래프\p542 그래프.vcxproj", "{D60857AB-9505-4E84-946B-D8C71223C102}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D60857AB-9505-4E84-946B-D8C71223C102}.Debug|x64.ActiveCfg = Debug|x64
+		{D60857AB-9505-4E84-946B-D8C71223C102}.Debug|x64.Build.0 = Debug|x64
+		{D60857AB-9505-4E84-946B-D8C71223C102}.Debug|x86.ActiveCfg = Debug|Win32
+		{D60857AB-9505-4E84-946B-D8C71223C102}.Debug|x86.Build.0 = Debug|Win32
+		{D60857AB-9505-4E84-946B-D8C71223C102}.Release|x64.ActiveCfg = Release|x64
+		{D60857AB-9505-4E84-946B-D8C71223C102}.Release|x64.Build.0 = Release|x64
+		{D60857AB-9505-4E84-946B-D8C71223C102}.Release|x86.ActiveCfg = Release|Win32
+		{D60857AB-9505-4E84-946B-D8C71223C102}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABC9A8A6-7BF7-4F05-AA1E-BB0B72C92BF0}
+	EndGlobalSection
+EndGlobal

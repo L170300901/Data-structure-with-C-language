@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\sh\Desktop\자료구조\9935 문자열 폭팔\9935 문자열 폭팔\소스.c(14,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\sh\Desktop\자료구조\9935 문자열 폭팔\9935 문자열 폭팔\소스.c(21,22): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  9935 문자열 폭팔.vcxproj -> C:\Users\sh\Desktop\자료구조\9935 문자열 폭팔\Debug\9935 문자열 폭팔.exe

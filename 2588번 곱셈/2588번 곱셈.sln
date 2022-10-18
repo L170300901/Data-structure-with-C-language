@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2588번 곱셈", "2588번 곱셈\2588번 곱셈.vcxproj", "{DE2FE16A-836E-466C-A33B-699CAAA0DC25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE2FE16A-836E-466C-A33B-699CAAA0DC25}.Debug|x64.ActiveCfg = Debug|x64
+		{DE2FE16A-836E-466C-A33B-699CAAA0DC25}.Debug|x64.Build.0 = Debug|x64
+		{DE2FE16A-836E-466C-A33B-699CAAA0DC25}.Debug|x86.ActiveCfg = Debug|Win32
+		{DE2FE16A-836E-466C-A33B-699CAAA0DC25}.Debug|x86.Build.0 = Debug|Win32
+		{DE2FE16A-836E-466C-A33B-699CAAA0DC25}.Release|x64.ActiveCfg = Release|x64
+		{DE2FE16A-836E-466C-A33B-699CAAA0DC25}.Release|x64.Build.0 = Release|x64
+		{DE2FE16A-836E-466C-A33B-699CAAA0DC25}.Release|x86.ActiveCfg = Release|Win32
+		{DE2FE16A-836E-466C-A33B-699CAAA0DC25}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8F2CB26-B797-4FB0-A9FE-8CB350940DA9}
+	EndGlobalSection
+EndGlobal

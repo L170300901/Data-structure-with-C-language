@@ -1,0 +1,28 @@
+﻿  소스.c
+C:\Users\sh\Desktop\자료구조\9019번 DSLR\9019번 DSLR\소스.c(28,10): warning C4477:  'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\sh\Desktop\자료구조\9019번 DSLR\9019번 DSLR\소스.c(45,26): warning C4047:  '함수': 'char *'의 간접 참조 수준이 'char'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\9019번 DSLR\9019번 DSLR\소스.c(45,26): warning C4024:  'strcat': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\sh\Desktop\자료구조\9019번 DSLR\9019번 DSLR\소스.c(45,30): warning C4047:  '함수': 'const char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\9019번 DSLR\9019번 DSLR\소스.c(45,30): warning C4024:  'strcat': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\sh\Desktop\자료구조\9019번 DSLR\9019번 DSLR\소스.c(45,31): warning C4047:  '=': 'char'의 간접 참조 수준이 'char *'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\9019번 DSLR\9019번 DSLR\소스.c(57,28): warning C4047:  '함수': 'char *'의 간접 참조 수준이 'char'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\9019번 DSLR\9019번 DSLR\소스.c(57,28): warning C4024:  'strcat': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\sh\Desktop\자료구조\9019번 DSLR\9019번 DSLR\소스.c(57,33): warning C4047:  '함수': 'const char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\9019번 DSLR\9019번 DSLR\소스.c(57,33): warning C4024:  'strcat': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\sh\Desktop\자료구조\9019번 DSLR\9019번 DSLR\소스.c(57,34): warning C4047:  '=': 'char'의 간접 참조 수준이 'char *'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\9019번 DSLR\9019번 DSLR\소스.c(68,28): warning C4047:  '함수': 'char *'의 간접 참조 수준이 'char'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\9019번 DSLR\9019번 DSLR\소스.c(68,28): warning C4024:  'strcat': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\sh\Desktop\자료구조\9019번 DSLR\9019번 DSLR\소스.c(68,33): warning C4047:  '함수': 'const char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\9019번 DSLR\9019번 DSLR\소스.c(68,33): warning C4024:  'strcat': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\sh\Desktop\자료구조\9019번 DSLR\9019번 DSLR\소스.c(68,34): warning C4047:  '=': 'char'의 간접 참조 수준이 'char *'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\9019번 DSLR\9019번 DSLR\소스.c(85,27): warning C4047:  '함수': 'char *'의 간접 참조 수준이 'char'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\9019번 DSLR\9019번 DSLR\소스.c(85,27): warning C4024:  'strcat': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\sh\Desktop\자료구조\9019번 DSLR\9019번 DSLR\소스.c(85,32): warning C4047:  '함수': 'const char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\9019번 DSLR\9019번 DSLR\소스.c(85,32): warning C4024:  'strcat': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\sh\Desktop\자료구조\9019번 DSLR\9019번 DSLR\소스.c(85,33): warning C4047:  '=': 'char'의 간접 참조 수준이 'char *'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\9019번 DSLR\9019번 DSLR\소스.c(99,27): warning C4047:  '함수': 'char *'의 간접 참조 수준이 'char'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\9019번 DSLR\9019번 DSLR\소스.c(99,27): warning C4024:  'strcat': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\sh\Desktop\자료구조\9019번 DSLR\9019번 DSLR\소스.c(99,32): warning C4047:  '함수': 'const char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\9019번 DSLR\9019번 DSLR\소스.c(99,32): warning C4024:  'strcat': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\sh\Desktop\자료구조\9019번 DSLR\9019번 DSLR\소스.c(99,33): warning C4047:  '=': 'char'의 간접 참조 수준이 'char *'과(와) 다릅니다.
+  9019번 DSLR.vcxproj -> C:\Users\sh\Desktop\자료구조\9019번 DSLR\Debug\9019번 DSLR.exe

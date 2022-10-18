@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\sh\Desktop\자료구조\17609번 유사회문\17609번 유사회문\소스.c(17,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\sh\Desktop\자료구조\17609번 유사회문\17609번 유사회문\소스.c(14,12): warning C4101:  'right' :참조되지 않은 지역 변수입니다.
+  17609번 유사회문.vcxproj -> C:\Users\sh\Desktop\자료구조\17609번 유사회문\Debug\17609번 유사회문.exe

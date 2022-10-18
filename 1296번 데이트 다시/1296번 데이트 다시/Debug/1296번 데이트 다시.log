@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\sh\Desktop\자료구조\1296번 데이트 다시\1296번 데이트 다시\소스.c(12,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\sh\Desktop\자료구조\1296번 데이트 다시\1296번 데이트 다시\소스.c(24,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  1296번 데이트 다시.vcxproj -> C:\Users\sh\Desktop\자료구조\1296번 데이트 다시\Debug\1296번 데이트 다시.exe

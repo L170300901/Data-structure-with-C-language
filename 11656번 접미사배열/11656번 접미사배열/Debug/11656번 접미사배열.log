@@ -1,0 +1,3 @@
+﻿  소스.c
+C:\Users\sh\Desktop\자료구조\11656번 접미사배열\11656번 접미사배열\소스.c(22,7): warning C4101:  'temp' :참조되지 않은 지역 변수입니다.
+  11656번 접미사배열.vcxproj -> C:\Users\sh\Desktop\자료구조\11656번 접미사배열\Debug\11656번 접미사배열.exe

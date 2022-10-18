@@ -1,0 +1,6 @@
+﻿  소스.c
+C:\Users\sh\Desktop\자료구조\1874-2\1874-2\소스.c(106,11): warning C4477:  'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\sh\Desktop\자료구조\1874-2\1874-2\소스.c(73,6): warning C4101:  'output' :참조되지 않은 지역 변수입니다.
+C:\Users\sh\Desktop\자료구조\1874-2\1874-2\소스.c(70,11): warning C4101:  'j' :참조되지 않은 지역 변수입니다.
+C:\Users\sh\Desktop\자료구조\1874-2\1874-2\소스.c(70,14): warning C4101:  'temp' :참조되지 않은 지역 변수입니다.
+  1874-2.vcxproj -> C:\Users\sh\Desktop\자료구조\1874-2\Debug\1874-2.exe

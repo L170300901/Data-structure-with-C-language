@@ -1,0 +1,5 @@
+﻿  소스.c
+C:\Users\sh\Desktop\자료구조\2887행성 터널\2887행성 터널\소스.c(65,32): warning C4090:  '함수': 'const' 한정자가 서로 다릅니다.
+C:\Users\sh\Desktop\자료구조\2887행성 터널\2887행성 터널\소스.c(65,32): warning C4028:  정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\sh\Desktop\자료구조\2887행성 터널\2887행성 터널\소스.c(65,32): warning C4028:  정식 매개 변수 2이(가) 선언과 다릅니다.
+  2887행성 터널.vcxproj -> C:\Users\sh\Desktop\자료구조\2887행성 터널\Debug\2887행성 터널.exe

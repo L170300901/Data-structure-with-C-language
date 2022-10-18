@@ -1,0 +1,3 @@
+﻿  소스.c
+C:\Users\sh\Desktop\자료구조\로마숫자2\로마숫자2\소스.c(198,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  로마숫자2.vcxproj -> C:\Users\sh\Desktop\자료구조\로마숫자2\Debug\로마숫자2.exe

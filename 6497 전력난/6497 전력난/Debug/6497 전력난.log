@@ -1,0 +1,5 @@
+﻿  소스.c
+C:\Users\sh\Desktop\자료구조\6497 전력난\6497 전력난\소스.c(84,32): warning C4090:  '함수': 'const' 한정자가 서로 다릅니다.
+C:\Users\sh\Desktop\자료구조\6497 전력난\6497 전력난\소스.c(84,32): warning C4028:  정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\sh\Desktop\자료구조\6497 전력난\6497 전력난\소스.c(84,32): warning C4028:  정식 매개 변수 2이(가) 선언과 다릅니다.
+  6497 전력난.vcxproj -> C:\Users\sh\Desktop\자료구조\6497 전력난\Debug\6497 전력난.exe

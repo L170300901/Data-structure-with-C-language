@@ -1,0 +1,21 @@
+﻿  소스.c
+C:\Users\sh\Desktop\자료구조\11725\11725\소스.c(68,9): warning C4477:  'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'BTreeNode **'입니다.
+C:\Users\sh\Desktop\자료구조\11725\11725\소스.c(68,9): warning C4477:  'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'BTreeNode **'입니다.
+C:\Users\sh\Desktop\자료구조\11725\11725\소스.c(69,14): warning C4047:  '==': 'BTreeNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\11725\11725\소스.c(69,23): warning C4047:  '==': 'BTreeNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\11725\11725\소스.c(71,14): warning C4047:  '==': 'BTreeNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\11725\11725\소스.c(75,11): warning C4047:  '=': 'int'의 간접 참조 수준이 'BTreeNode *'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\11725\11725\소스.c(78,15): warning C4047:  '==': 'BTreeNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\11725\11725\소스.c(84,15): warning C4047:  '==': 'BTreeNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\11725\11725\소스.c(89,15): warning C4047:  '==': 'BTreeNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\11725\11725\소스.c(97,16): warning C4047:  '==': 'BTreeNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\11725\11725\소스.c(97,26): warning C4047:  '==': 'BTreeNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\11725\11725\소스.c(99,16): warning C4047:  '==': 'BTreeNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\11725\11725\소스.c(101,25): warning C4047:  '함수': 'BTreeNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\11725\11725\소스.c(101,25): warning C4024:  'MakeRightSubTree': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\sh\Desktop\자료구조\11725\11725\소스.c(102,12): warning C4047:  '=': 'int'의 간접 참조 수준이 'BTreeNode *'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\11725\11725\소스.c(104,16): warning C4047:  '==': 'BTreeNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\11725\11725\소스.c(106,25): warning C4047:  '함수': 'BTreeNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\sh\Desktop\자료구조\11725\11725\소스.c(106,25): warning C4024:  'MakeRightSubTree': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\sh\Desktop\자료구조\11725\11725\소스.c(107,12): warning C4047:  '=': 'int'의 간접 참조 수준이 'BTreeNode *'과(와) 다릅니다.
+  11725.vcxproj -> C:\Users\sh\Desktop\자료구조\11725\Debug\11725.exe

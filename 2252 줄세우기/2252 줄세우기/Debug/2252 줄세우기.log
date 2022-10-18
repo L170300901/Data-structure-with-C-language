@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\sh\Desktop\자료구조\2252 줄세우기\2252 줄세우기\소스.c(99): warning C4716:  'cur2Remove': 값을 반환해야 합니다.
+C:\Users\sh\Desktop\자료구조\2252 줄세우기\2252 줄세우기\소스.c(88): warning C4716:  'cur1Remove': 값을 반환해야 합니다.
+  2252 줄세우기.vcxproj -> C:\Users\sh\Desktop\자료구조\2252 줄세우기\Debug\2252 줄세우기.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2578번 빙고", "2578번 빙고\2578번 빙고.vcxproj", "{3EEE315E-3B2E-45AC-9749-2C7BA74A7CDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EEE315E-3B2E-45AC-9749-2C7BA74A7CDB}.Debug|x64.ActiveCfg = Debug|x64
+		{3EEE315E-3B2E-45AC-9749-2C7BA74A7CDB}.Debug|x64.Build.0 = Debug|x64
+		{3EEE315E-3B2E-45AC-9749-2C7BA74A7CDB}.Debug|x86.ActiveCfg = Debug|Win32
+		{3EEE315E-3B2E-45AC-9749-2C7BA74A7CDB}.Debug|x86.Build.0 = Debug|Win32
+		{3EEE315E-3B2E-45AC-9749-2C7BA74A7CDB}.Release|x64.ActiveCfg = Release|x64
+		{3EEE315E-3B2E-45AC-9749-2C7BA74A7CDB}.Release|x64.Build.0 = Release|x64
+		{3EEE315E-3B2E-45AC-9749-2C7BA74A7CDB}.Release|x86.ActiveCfg = Release|Win32
+		{3EEE315E-3B2E-45AC-9749-2C7BA74A7CDB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {196E5897-DC75-4AE2-9C40-542B93418811}
+	EndGlobalSection
+EndGlobal

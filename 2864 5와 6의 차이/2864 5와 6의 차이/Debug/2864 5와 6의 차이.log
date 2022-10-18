@@ -1,0 +1,6 @@
+﻿  소스.c
+C:\Users\sh\Desktop\자료구조\2864 5와 6의 차이\2864 5와 6의 차이\소스.c(12,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\sh\Desktop\자료구조\2864 5와 6의 차이\2864 5와 6의 차이\소스.c(19,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\sh\Desktop\자료구조\2864 5와 6의 차이\2864 5와 6의 차이\소스.c(29,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\sh\Desktop\자료구조\2864 5와 6의 차이\2864 5와 6의 차이\소스.c(36,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  2864 5와 6의 차이.vcxproj -> C:\Users\sh\Desktop\자료구조\2864 5와 6의 차이\Debug\2864 5와 6의 차이.exe
